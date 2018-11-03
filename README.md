@@ -1,8 +1,8 @@
 # Ship-Detection
 <img src="https://github.com/ethanhou99/Ship-Detection/blob/master/images/Team_logo_v2.png" />
 
-## Introduction
-- This project is designed for the Airbus Ship Detection Challenge(reference link:https://www.kaggle.com/c/airbus-ship-detection)
+## Introduction&Dataset source
+- This project is designed for the Airbus Ship Detection Challenge, and all the infos needed and datasets are in the following link(reference link:https://www.kaggle.com/c/airbus-ship-detection)
 
 ## Backstory
 - Shipping traffic is growing fast. More ships increase the chances of infractions at sea like environmentally devastating ship accidents, piracy, illegal fishing, drug trafficking, and illegal cargo movement. This has compelled many organizations, from environmental protection agencies to insurance companies and national government authorities, to have a closer watch over the open seas.
