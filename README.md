@@ -21,6 +21,10 @@
 
 ### Application Interface
 ![preview](https://github.com/ethanhou99/Ship-Detection/blob/master/images/Application_demo.gif)
+Try the web app at location
+'''
+https://github.com/Wwwzff/ShipDetector
+'''
 
 ## Keynote
 - Use Unet to detect ship in a Satellite Picture dataset offered by Kaggle. 
