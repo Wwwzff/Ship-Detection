@@ -1,4 +1,4 @@
-#Traing result with different learning rate
+# Traing result with different learning rate
 
 Dice/lr1e-4
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/Dice_lr1e-4.png" />
