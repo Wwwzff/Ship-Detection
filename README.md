@@ -7,6 +7,15 @@
 ## Backstory
 - Shipping traffic is growing fast. More ships increase the chances of infractions at sea like environmentally devastating ship accidents, piracy, illegal fishing, drug trafficking, and illegal cargo movement. This has compelled many organizations, from environmental protection agencies to insurance companies and national government authorities, to have a closer watch over the open seas.
 
+## Todo List
+- [x] Model select
+- [x] Webpage basic design
+- [x] Metric choosing
+- [x] Loss Function choosing
+- [ ] Hyper Parameters choosing
+- [ ] Webpage improvement
+- [ ] Webpage Deployment
+
 ## Method and Examples
 
 ### Block Diagram
