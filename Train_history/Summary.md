@@ -1,5 +1,9 @@
 # Traing result with different learning rate
+## 14/12/2018 Update
+Dice/lr1e-5/bs32
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/Dice:lr1e-5:bs32.png" />
 
+## 11/12/2018 Update
 Dice/lr1e-4
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/Dice_lr1e-4.png" />
 
