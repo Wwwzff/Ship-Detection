@@ -3,6 +3,8 @@
 ## 11/16/2018 Update
 Dice/lr1e-5/bs32/epoch343
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/Dice_lr5e-5_bs32_ep32.png" />
+Dice/lr1e-6/bs32/epoch343
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/Dice_lr1e-6_bs32.png" />
 
 ## 11/14/2018 Update
 Dice/lr1e-5/bs32/epoch200
