@@ -12,8 +12,8 @@
 - [x] Webpage basic design
 - [x] Metric choosing
 - [x] Loss Function choosing
-- [ ] Learning Rate Adjustment
-- [ ] Hyper Parameters choosing
+- [x] Learning Rate Adjustment
+- [x] Hyper Parameters choosing
 - [ ] Webpage improvement
 - [ ] Webpage Deployment
 
