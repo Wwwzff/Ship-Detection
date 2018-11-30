@@ -1,5 +1,9 @@
 # Traing result with different learning rate
 
+## 11/29/2018 Update
+lr1e-5_200step_size_6000img
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/lr1e-5_200step_size_6000img.png" />
+
 ## 11/25/2018 Update
 Dice/lr1e-5/bs48/epoch375
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/Dice%20lr%201e-5%2C%20epoch%20375.png" />
