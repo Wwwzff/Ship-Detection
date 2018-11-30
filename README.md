@@ -14,6 +14,7 @@
 - [x] Loss Function choosing
 - [x] Learning Rate Adjustment
 - [x] Hyper Parameters choosing
+- [ ] Model improvement
 - [ ] Webpage improvement
 - [ ] Webpage Deployment
 
