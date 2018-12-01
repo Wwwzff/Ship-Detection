@@ -9,4 +9,5 @@
 * Coded by Visual Studio 2017, and you may need that to run the .sln file (or just go to ./WindowsFormsApp1/bin/Debug and try to run .exe file directly)
 
 # Python Application
-* You may need to modify the model's path in app.py. After running the python script, go have fun in http://localhost:5000 or http://127.0.0.1:5000  
+* You may need to modify the model's path in app.py. After running the python script, go have fun in http://localhost:5000 or http://127.0.0.1:5000 
+* Up-to-date version can be find on https://github.com/Wwwzff/ShipDetector
