@@ -1,7 +1,7 @@
 # Ship-Detection
 <img src="https://github.com/ethanhou99/Ship-Detection/blob/master/images/Team_logo_v2.png" />
 
-## Introduction&Dataset source
+## Introduction & Dataset source
 - This project is designed for the Airbus Ship Detection Challenge, and all the infos needed and datasets are in the following link(reference link:https://www.kaggle.com/c/airbus-ship-detection)
 
 ## Backstory
