@@ -31,7 +31,7 @@
 - Current application can detect the sea and other objects. For the next step, we will add some complex training set to improve the noise-process-ability.
 
 ### Application Interface
-![preview](https://github.com/Wwwzff/Ship-Detection/blob/master/images/UI.png)
+![preview](https://github.com/Wwwzff/Ship-Detection/blob/master/images/website.jpg)
 Try the web app at location https://github.com/Wwwzff/ShipDetector
 
 
