@@ -19,7 +19,7 @@
 - [ ] Webpage Deployment
 
 ## Current Best Result
-<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/bestreult1.png"/>
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/bestresult_v2.png"/>
 
 ## Method and Examples
 
