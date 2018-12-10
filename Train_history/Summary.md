@@ -1,7 +1,11 @@
 # Traing result with different learning rate
 
+## 12/10/2018 Update
+lr1e-5_200step_size_loss-IoU_accuracy-Dice
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/lr-1e-5_loss-IoU_step-861_epoch-15.png" />
+
 ## 11/29/2018 Update
-lr1e-5_200step_size_6000img
+lr1e-5_200step_size_6000
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/lr1e-5_200step_size_6000img.png" />
 
 ## 11/25/2018 Update
