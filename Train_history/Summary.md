@@ -1,4 +1,4 @@
-# Traing result with different learning rate
+# Traing result with different hyperparameters
 
 ## 12/10/2018 Update
 lr1e-5_200step_size_loss-IoU_accuracy-Dice
