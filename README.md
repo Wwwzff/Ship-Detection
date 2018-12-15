@@ -7,6 +7,9 @@
 ## Backstory
 - Shipping traffic is growing fast. More ships increase the chances of infractions at sea like environmentally devastating ship accidents, piracy, illegal fishing, drug trafficking, and illegal cargo movement. This has compelled many organizations, from environmental protection agencies to insurance companies and national government authorities, to have a closer watch over the open seas.
 
+## Poster
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/poster.png" />
+
 ## Todo List
 - [x] Model select
 - [x] Webpage basic design
