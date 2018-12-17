@@ -23,6 +23,7 @@
 
 ## Current Best Result
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/bestresult_v2.png"/>
+* Check our training log here: https://github.com/Wwwzff/Ship-Detection/blob/master/Train_history/Summary.md
 
 ## Method and Examples
 
@@ -35,7 +36,7 @@
 
 ### Application Interface
 ![preview](https://github.com/Wwwzff/Ship-Detection/blob/master/images/website.jpg)
-Try the web app at location https://github.com/Wwwzff/ShipDetector
+Try the web app at location: https://github.com/Wwwzff/ShipDetector
 
 
 ## Keynote
