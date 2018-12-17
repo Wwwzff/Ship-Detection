@@ -1,5 +1,8 @@
 # Traing result with different hyperparameters
 
+## 12/13/2018 Update
+<img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/lr-1e-5_loss-IoU_step_size-2000.png" />
+
 ## 12/10/2018 Update
 lr1e-5_200step_size_loss-IoU_accuracy-Dice
 <img src="https://github.com/Wwwzff/Ship-Detection/blob/master/images/lr-1e-5_loss-IoU_step-861_epoch-15.png" />
